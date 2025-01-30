@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yereklayy
+- 👀 I’m interested in making small but good programs than could help you with everyday tasks
+- 🌱 I’m currently learning C#, Java
+- 📫 How to reach me: Disord: yereklay, yereklay_
+- 😄 Pronouns: yereklay
